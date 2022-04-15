@@ -1,0 +1,201 @@
+Execution sur 10 instance
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 1.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.2107606633709709
+inst value : 1.0099019411451013
+inst value : 0.09221582930938212
+inst value : 0.2722988478534292
+inst value : 0.45054027075978875
+inst value : 0.22642549430940145
+inst value : 0.2126100767333916
+inst value : 0.37304195964959486
+inst value : 0.5833789133682241
+inst value : 0.2971242141533998
+inst value : 1.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 1.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.6881648449111546
+inst value : 0.6253829214734729
+inst value : 0.3619050107289031
+inst value : 0.2956934533021002
+inst value : 0.4610628909653712
+inst value : 0.8360686915979268
+inst value : 0.6986619644026038
+inst value : 0.7579429110227601
+inst value : 0.7946078311618647
+inst value : 0.7609685232848663
+inst value : 1.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 1.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.2042824590380209
+inst value : 0.45140133107160946
+inst value : 0.42740198902323584
+inst value : 0.5202983810084971
+inst value : 0.7017524938781663
+inst value : 0.025804801483922075
+inst value : 0.6392820568710814
+inst value : 0.4339318850747241
+inst value : 0.3880602325163732
+inst value : 0.006484819255659405
+inst value : 1.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 0.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.43523703461318985
+inst value : -0.03737381515781511
+inst value : 0.5235711267138601
+inst value : -0.02073917493159219
+inst value : 0.792964329402154
+inst value : 0.6934130096866538
+inst value : 0.8231868459621777
+inst value : 0.06442813130848525
+inst value : -0.09417875533052655
+inst value : 0.506619452779046
+inst value : 0.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 0.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.4102972168676137
+inst value : 0.5382286107856997
+inst value : 0.30285989885935005
+inst value : 0.5877802200296632
+inst value : 0.3007677883696125
+inst value : 0.9890955744975498
+inst value : 0.13901205917830214
+inst value : 0.4185936263981098
+inst value : -0.046180567594615626
+inst value : 0.8363864832875372
+inst value : 0.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 0.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : -0.08990266710490624
+inst value : -0.5290224682726529
+inst value : 0.783361214155965
+inst value : 0.9118346542656293
+inst value : 0.7792964219999897
+inst value : 0.7171596751783423
+inst value : 0.24704636197935173
+inst value : -0.20926407471944836
+inst value : -0.29311068226303805
+inst value : 1.1573482690671604
+inst value : 0.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 0.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.3890111605015994
+inst value : 0.38422222177480575
+inst value : 0.43757477751148377
+inst value : 0.057988188038011174
+inst value : 0.7306847712082727
+inst value : 0.5583650587077945
+inst value : 0.46302081802160333
+inst value : 0.44951818321390413
+inst value : 0.4598683013617398
+inst value : 0.4743817560553522
+inst value : 0.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 1.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.18924843347664114
+inst value : 0.9956515184433155
+inst value : -4.2418139020492657E-4
+inst value : 0.4354537790034283
+inst value : 0.35752864652304495
+inst value : 0.30897343529346927
+inst value : 0.3557337968057756
+inst value : 0.5001327512046371
+inst value : 0.6544426262828719
+inst value : 0.2847490303764356
+inst value : 1.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 1.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.40411361367305165
+inst value : 0.7150784929027187
+inst value : 0.38988458238509366
+inst value : 0.6506264132539724
+inst value : -0.03508936956094486
+inst value : 0.8037118823162768
+inst value : 0.7525479535579027
+inst value : 0.8283702715028392
+inst value : 0.48775942759883645
+inst value : -0.06808214106287731
+inst value : 1.0
+--------------------------------
+test trainOnInstanceImpl
+--------------------------------
+test getVotesForInstance
+--------------------------------
+inst classValue : 0.0
+inst classIndex : 10
+inst numAttributes : 11
+inst numValues : 11
+inst value : 0.010109082468476228
+inst value : 0.19130024933206133
+inst value : 0.8605568635087825
+inst value : 0.8128228880442444
+inst value : 0.3483284367331596
+inst value : 0.7966966698904063
+inst value : 0.17784999078678976
+inst value : 0.5912971560737753
+inst value : 0.8471554149398394
+inst value : 0.30752708983496446
+inst value : 0.0
+--------------------------------
+test trainOnInstanceImpl
